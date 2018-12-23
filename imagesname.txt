@@ -1,2 +1,2 @@
-dockerproductwebsite_product-service:latest
-dockerproductwebsite_website-service:latest
+devsbe/dockerproductwebsite_product-service:latest
+devsbe/dockerproductwebsite_website-service:latest
