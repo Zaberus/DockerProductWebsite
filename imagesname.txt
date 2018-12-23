@@ -1,2 +1,2 @@
-devsbe/product-service:latest
-devsbe/website-service:latest
+dockerproductwebsite_product-service:latest
+dockerproductwebsite_website-service:latest
