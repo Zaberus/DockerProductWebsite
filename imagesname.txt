@@ -1,2 +1,0 @@
-dockerproductwebsite_product-service:latest
-dockerproductwebsite_website-service:latest
