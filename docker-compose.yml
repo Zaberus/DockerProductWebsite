@@ -3,6 +3,7 @@ version: '3'
 services:
   product-service:
     container_name: Products
+    image: devsbe/products:latest
     build: ./product
     volumes:
       - ./product:/usr/src/app
@@ -11,6 +12,7 @@ services:
 
   website-service:
     container_name: Website
+    image: devsbe/website:latest
     build: ./website
     volumes:
       - ./website:/var/www/html
